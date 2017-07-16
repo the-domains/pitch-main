@@ -31,6 +31,9 @@ navigation:
   - name: About us
     id: d96e6de6-3f4f-414c-8498-49bb6be74b4c
     type: content
+  - name: Music and you
+    id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
+    type: content
 title: Pitch
 content: []
 description: Rule your music
