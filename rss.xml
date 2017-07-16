@@ -4,9 +4,16 @@
         <description><![CDATA[Pitch]]></description>
         <link>http://pitch.studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Jul 2017 21:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2017 21:16:18 GMT</lastBuildDate>
         <atom:link href="http://pitch.studio/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Jul 2017 21:09:45 GMT</pubDate>
+        <pubDate>Sun, 16 Jul 2017 21:16:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mia’s Blog]]></title>
+            <description><![CDATA[<h1>Mia’s Blog</h1>,<p>Posts are on the way…</p>]]></description>
+            <link>http://pitch.studio/mias-blog/index.html</link>
+            <guid isPermaLink="false">1fcdf0c8-7d9f-4033-8076-6cf9f984fa24</guid>
+            <pubDate>Sun, 16 Jul 2017 21:15:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top ever lists]]></title>
             <description><![CDATA[<h1>Top ever lists</h1>,<p>Rolling Stone top 10:</p>,<article><h1>Top 10 Songs From Rolling Stone&apos;s 500 Greatest Songs of All-time</h1><p>queen11 1 Like a Rolling Stone - Bob Dylan This song if a movement of its own. - queen11 This song deserves to be the #1 song of all time Exactly like the list title... - micahisthebest Without a doubt. Skewers the 60s. Prefigures the decline to come.</p></article>,<p>Billboard top 100:</p>]]></description>
