@@ -31,9 +31,6 @@ navigation:
   - name: About us
     id: d96e6de6-3f4f-414c-8498-49bb6be74b4c
     type: content
-  - name: Music and you
-    id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
-    type: content
   - name: Top Ever
     id: f0f65c68-0428-49e2-b614-078ba4b7b2c9
     type: content
