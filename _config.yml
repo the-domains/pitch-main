@@ -34,6 +34,9 @@ navigation:
   - name: Music and you
     id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
     type: content
+  - name: Billboard top 100 all times
+    url: 'http://www.billboard.com/charts/greatest-hot-100-singles'
+    type: external
 title: Pitch
 content: []
 description: Rule your music
