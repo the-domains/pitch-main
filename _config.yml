@@ -37,6 +37,9 @@ navigation:
   - name: Mia's Blog
     id: 1fcdf0c8-7d9f-4033-8076-6cf9f984fa24
     type: content
+  - name: About Us
+    id: d96e6de6-3f4f-414c-8498-49bb6be74b4c
+    type: content
 title: Pitch
 content: []
 description: Rule your music
