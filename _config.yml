@@ -34,9 +34,6 @@ navigation:
   - name: Music and you
     id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
     type: content
-  - name: Top Songs
-    id: 6795025e-fa67-4085-bbee-87b9907d7429
-    type: content
   - name: Top Ever
     id: f0f65c68-0428-49e2-b614-078ba4b7b2c9
     type: content
