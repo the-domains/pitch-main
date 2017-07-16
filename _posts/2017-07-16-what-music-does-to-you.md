@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: What music does to you
-dateModified: '2017-07-16T00:29:18.979Z'
-datePublished: '2017-07-16T00:29:19.929Z'
+dateModified: '2017-07-16T00:31:55.022Z'
+datePublished: '2017-07-16T00:31:55.561Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-16-what-music-does-to-you.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-16T00:29:19.929Z'
-sourcePath: _posts/2017-07-16-what-music-does-to-you.md
-_type: Blurb
+url: what-music-does-to-you/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e81f4a4a-2891-4725-93b0-46bc44943fe9.png)
