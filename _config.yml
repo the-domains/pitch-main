@@ -37,6 +37,9 @@ navigation:
   - name: Billboard top 100 all times
     url: 'http://www.billboard.com/charts/greatest-hot-100-singles'
     type: external
+  - name: Rolling Stone top 10 all times
+    url: 'https://www.thetoptens.com/songs-rolling-stones-500-greatest-songs/'
+    type: external
 title: Pitch
 content: []
 description: Rule your music
