@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-07-16T15:51:32.893Z'
-dateModified: '2017-07-16T15:51:24.765Z'
+datePublished: '2017-07-16T21:08:29.831Z'
+dateModified: '2017-07-16T21:08:29.105Z'
 via: {}
 description: >-
   Music makes your brain release endorphins, opioid-like substances that give
@@ -10,9 +10,11 @@ title: What music does for you
 sourcePath: _posts/2017-07-16-what-music-does-to-you.md
 inFeed: true
 author: []
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-16T00:29:19.929Z'
-_type: Blurb
+url: what-music-does-for-you/index.html
+_type: Article
 
 ---
 # What music does for you
