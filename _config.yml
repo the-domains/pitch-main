@@ -18,7 +18,7 @@ author:
   name: ''
   email: yanay@pitch.studio
   url: 'http://pitch.studio'
-name: Pitch Home
+name: Pitch
 url: 'https://pitch.studio/pitch-main/'
 colors:
   brandColors:
@@ -32,29 +32,5 @@ navigation:
     id: 20f2bb60-6800-4b4a-911f-253601254009
     type: content
 title: Pitch
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2911b6e3-587e-420d-93d5-9679af535753.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2911b6e3-587e-420d-93d5-9679af535753.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Rule your music
