@@ -27,10 +27,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: About us
-    id: 20f2bb60-6800-4b4a-911f-253601254009
-    type: content
 title: Pitch
 content: []
 description: Rule your music
