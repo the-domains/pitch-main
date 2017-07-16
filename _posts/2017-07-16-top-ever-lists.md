@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: Top ever lists
-dateModified: '2017-07-16T00:47:34.019Z'
-datePublished: '2017-07-16T00:47:34.408Z'
+dateModified: '2017-07-16T00:48:15.151Z'
+datePublished: '2017-07-16T00:48:15.527Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-16-top-ever-lists.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-16T00:47:34.408Z'
-sourcePath: _posts/2017-07-16-top-ever-lists.md
-_type: Blurb
+url: top-ever-lists/index.html
+_type: Article
 
 ---
 Top ever lists
