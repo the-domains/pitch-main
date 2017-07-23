@@ -37,6 +37,9 @@ navigation:
   - name: Top Lists
     id: f0f65c68-0428-49e2-b614-078ba4b7b2c9
     type: content
+  - name: We Support
+    id: eba9db87-ded5-41ac-887c-d98c10c714c7
+    type: content
 title: Pitch
 content: []
 description: Rule your music
