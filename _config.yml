@@ -37,9 +37,6 @@ navigation:
   - name: Top Lists
     id: f0f65c68-0428-49e2-b614-078ba4b7b2c9
     type: content
-  - name: Mia's Blog
-    id: 1fcdf0c8-7d9f-4033-8076-6cf9f984fa24
-    type: content
 title: Pitch
 content: []
 description: Rule your music
