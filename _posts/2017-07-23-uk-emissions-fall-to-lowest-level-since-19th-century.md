@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'We aren’t going to make it to Mars, let’s keep Earth in shape'
-dateModified: '2017-07-23T17:10:28.978Z'
-datePublished: '2017-07-23T17:10:29.708Z'
+dateModified: '2017-07-23T17:12:44.633Z'
+datePublished: '2017-07-23T17:12:45.454Z'
 title: >-
   An Inconvenient Sequel: Truth To Power (2017)- Official Trailer - Paramount
   Pictures
@@ -16,11 +16,12 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 via: {}
-isBasedOnUrl: 'https://www.ft.com/content/2bc62cb8-004f-11e7-8d8e-a5e3738f9ae4'
 sourcePath: _posts/2017-07-23-uk-emissions-fall-to-lowest-level-since-19th-century.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-23T17:09:17.098Z'
-_type: MediaObject
+url: an-inconvenient-sequel-truth-to-power-2017-official-trai/index.html
+_type: Article
 
 ---
 We aren't going to make it to Mars, let's keep Earth in shape
