@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '#beinconvenient'
-dateModified: '2017-07-26T05:11:23.252Z'
-datePublished: '2017-07-26T05:11:24.302Z'
+dateModified: '2017-07-26T05:11:50.436Z'
+datePublished: '2017-07-26T05:11:50.947Z'
 title: 'It can be done: UK CO2 emissions are down to 1800’s level'
 author:
   - name: Paramount Pictures
@@ -30,5 +30,3 @@ _type: Article
 ### We aren't going to make it to Mars, let's keep Earth habitable
 
 \#beinconvenient
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhuX1bmfdkyA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhuX1bmfdkyA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhuX1bmfdkyA%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
