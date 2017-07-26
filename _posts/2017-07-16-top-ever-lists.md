@@ -4,8 +4,8 @@ publisher:
   favicon: 'https://www.thetoptens.com/favicon.ico'
   url: 'https://www.thetoptens.com'
   domain: www.thetoptens.com
-datePublished: '2017-07-23T17:03:39.910Z'
-dateModified: '2017-07-23T17:03:39.141Z'
+datePublished: '2017-07-26T05:00:26.994Z'
+dateModified: '2017-07-26T05:00:26.716Z'
 description: >-
   queen11 1 Like a Rolling Stone - Bob Dylan This song if a movement of its own.
   - queen11 This song deserves to be the #1 song of all time Exactly like the
