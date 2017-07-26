@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '#beinconvenient'
-dateModified: '2017-07-26T05:08:33.595Z'
-datePublished: '2017-07-26T05:08:34.048Z'
+dateModified: '2017-07-26T05:11:23.252Z'
+datePublished: '2017-07-26T05:11:24.302Z'
 title: 'It can be done: UK CO2 emissions are down to 1800’s level'
 author:
   - name: Paramount Pictures
@@ -27,7 +27,7 @@ _type: Article
 
 <article style=""><h1>UK's CO 2 emissions lowest since 19th century as coal use falls</h1><p>The UK's carbon dioxide emissions have fallen to their lowest level since the 19th century as coal use continues to plummet, analysis suggests. Emissions of the major greenhouse gas fell almost 6 per cent year-on-year in 2016, after the use of coal for electricity more than halved to record lows, according to the Carbon Brief website, which reports on climate science and energy policy.</p></article>
 
-### We aren't going to make it to Mars, let's keep our Earth habitable
+### We aren't going to make it to Mars, let's keep Earth habitable
 
 \#beinconvenient
 
