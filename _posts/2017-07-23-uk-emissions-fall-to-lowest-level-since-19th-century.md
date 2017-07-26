@@ -1,11 +1,9 @@
 ---
 inFeed: true
-description: 'We aren’t going to make it to Mars, let’s keep Earth in shape'
-dateModified: '2017-07-23T17:12:44.633Z'
-datePublished: '2017-07-23T17:12:45.454Z'
-title: >-
-  An Inconvenient Sequel: Truth To Power (2017)- Official Trailer - Paramount
-  Pictures
+description: '#beinconvenient'
+dateModified: '2017-07-26T04:59:50.454Z'
+datePublished: '2017-07-26T04:59:50.957Z'
+title: 'We aren’t going to make it to Mars, let’s keep our Earth habitable'
 author:
   - name: Paramount Pictures
     url: 'https://www.youtube.com/user/Paramount'
@@ -24,7 +22,7 @@ url: an-inconvenient-sequel-truth-to-power-2017-official-trai/index.html
 _type: Article
 
 ---
-We aren't going to make it to Mars, let's keep Earth in shape
+# We aren't going to make it to Mars, let's keep our Earth habitable
 
 \#beinconvenient
 
@@ -32,4 +30,4 @@ We aren't going to make it to Mars, let's keep Earth in shape
 
 It CAN be done, let's keep this going
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d4ae8c3414453ab79d815b74ed93f1a/croprotate.jpg?cropheight=856&amp;cropwidth=647&amp;degrees=0&amp;input=http%3A%2F%2Fwww.climateactionprogramme.org%2Fimages%2Fsite%2FCA1617.jpg&amp;x=0&amp;y=32" /><h1>UK emissions fall to lowest level since 19th century</h1><p>A significant decline in the use of coal has driven down UK carbon dioxide (CO2) emissions to the lowest levels since the 19th century. According to the Carbon Brief, CO2 emissions fell by 5.8 per cent in 2016, after coal use fell a record 52 per cent.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3fbc3853e69c93fa7f4f1fc405cb3115ad6961.jpg" /><h1>UK emissions fall to lowest level since 19th century</h1><p>A significant decline in the use of coal has driven down UK carbon dioxide (CO2) emissions to the lowest levels since the 19th century. According to the Carbon Brief, CO2 emissions fell by 5.8 per cent in 2016, after coal use fell a record 52 per cent.</p></article>
