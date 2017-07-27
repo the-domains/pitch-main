@@ -6,8 +6,8 @@ description: >-
   Queen himself, Freddie Mercury. Simple put; this is the song with every
   element required. Not one of the greatest but simply the greatest even if one
   includes classical music.
-dateModified: '2017-07-27T03:39:13.836Z'
-datePublished: '2017-07-27T03:39:14.382Z'
+dateModified: '2017-07-27T03:39:43.572Z'
+datePublished: '2017-07-27T03:39:44.553Z'
 title: Top ever lists
 author: []
 publisher:
@@ -16,11 +16,12 @@ publisher:
   favicon: 'https://www.thetoptens.com/favicon.ico'
   domain: www.thetoptens.com
 via: {}
-isBasedOnUrl: 'https://www.thetoptens.com/songs/'
+sourcePath: _posts/2017-07-27-top-ever-lists.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-27T03:39:14.382Z'
-sourcePath: _posts/2017-07-27-top-ever-lists.md
-_type: MediaObject
+url: top-ever-lists/index.html
+_type: Article
 
 ---
 # Top ever lists
