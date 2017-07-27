@@ -28,11 +28,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About Us
-    id: d96e6de6-3f4f-414c-8498-49bb6be74b4c
-    type: content
   - name: Music & You
     id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
+    type: content
+  - name: About Us
+    id: d96e6de6-3f4f-414c-8498-49bb6be74b4c
     type: content
 title: Pitch
 content: []
