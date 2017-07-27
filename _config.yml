@@ -1,6 +1,5 @@
-typography_spectrum: 0.6500977953181298
-content_rating:
-  adult: false
+layout_spectrum: 0.5750603724615002
+typography_spectrum: 0.15153522038749317
 color:
   brandColors:
     - '#2E0927'
@@ -8,12 +7,13 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-  brandStrength: 0.17554155731702797
-  lightness: 0.2950688078972778
-  saturation: 0.49307775892566263
-  rhythmicContrast: 0.7938552970583966
+  brandStrength: 0.5031462227695133
+  lightness: 0.41110815311689847
+  saturation: 0.08261851353109768
+  rhythmicContrast: 0.3269131288114972
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.04044905247701572
 author:
   name: ''
   email: yanay@pitch.studio
