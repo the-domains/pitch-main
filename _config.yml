@@ -34,6 +34,9 @@ navigation:
   - name: Music & You
     id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
     type: content
+  - name: Top Lists
+    id: bff28f66-9033-472f-8e6b-0014a06d8461
+    type: content
 title: Pitch
 content: []
 description: connect with your music
