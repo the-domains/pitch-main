@@ -34,9 +34,6 @@ navigation:
   - name: Music & You
     id: cb52ec0e-07dd-478f-bbb3-00b228020f6c
     type: content
-  - name: We Support
-    id: eba9db87-ded5-41ac-887c-d98c10c714c7
-    type: content
 title: Pitch
 content: []
 description: connect with your music
